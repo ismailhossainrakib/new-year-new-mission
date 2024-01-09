@@ -38,7 +38,7 @@ body {
   height: 60rem;
   background-size: 100% 164.194%;
   background-position: 0 -15.0131rem;
-  background-image: url('../assets/rectangle-14-bg.png');
+  background-image: url('./assets/rectangle-14-bg.png');
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
@@ -157,7 +157,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-44C.png');
+  background-image: url('./assets/vector-44C.png');
   flex-shrink: 0;
 }
 .landing-page-design-YGk .auto-group-adbj-ZBr .group-98-irg .auto-group-rv7e-UjN {
@@ -212,7 +212,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-qaC.png');
+  background-image: url('./assets/vector-qaC.png');
   flex-shrink: 0;
 }
 .landing-page-design-YGk .auto-group-adbj-ZBr .group-93-P7a .group-92-WCC {
@@ -358,7 +358,7 @@ body {
   top: 4.9078rem;
   background-size: 150.038% 100%;
   background-position: -9.1279rem 0;
-  background-image: url('../assets/ellipse-1-bg.png');
+  background-image: url('./assets/ellipse-1-bg.png');
   border-radius: 18.2422rem;
 }
 .landing-page-design-YGk .auto-group-adbj-ZBr .auto-group-xakw-vag .group-48-G8k .group-20-XMW .ellipse-1-fic .ellipse-1-fic-bg {
@@ -512,7 +512,7 @@ body {
   top: 0;
   background-size: 151.553% 100%;
   background-position: -5.998rem 0;
-  background-image: url('../assets/rectangle-1.png');
+  background-image: url('./assets/rectangle-1.png');
   border-radius: 1.6rem 1.6rem 0 0;
 }
 .landing-page-design-YGk .auto-group-adbj-ZBr .group-82-D9n .auto-group-z77a-UWx .group-83-kDa .objects-ZB2 {
@@ -525,7 +525,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector.png');
+  background-image: url('./assets/vector.png');
 }
 .landing-page-design-YGk .auto-group-adbj-ZBr .group-82-D9n .auto-group-z77a-UWx .group-83-kDa .objects-ZB2 .vector-5v4 {
   width: 28.7347rem;
@@ -688,7 +688,7 @@ body {
   position: relative;
   background-size: 100% 142.115%;
   background-position: 0 -3.5755rem;
-  background-image: url('../assets/rectangle-3.png');
+  background-image: url('./assets/rectangle-3.png');
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
@@ -721,7 +721,7 @@ body {
   position: relative;
   background-size: 156.077% 100%;
   background-position: -19.5366rem 0;
-  background-image: url('../assets/rectangle-6.png');
+  background-image: url('./assets/rectangle-6.png');
   border-radius: 1.6rem;
   flex-shrink: 0;
 }
